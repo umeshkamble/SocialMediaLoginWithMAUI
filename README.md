@@ -15,7 +15,8 @@ https://github.com/user-attachments/assets/25da9a70-1a06-4899-a991-86fd6fb00298
 
 # Developer Configuration for Google
 <img width="956" alt="Google-info" src="https://github.com/user-attachments/assets/a73edfa2-129d-4d19-aebe-ae99091757d0" />
-![Google-auth-config](https://github.com/user-attachments/assets/14be06bb-5264-4167-99c3-a125f5bcbba6)
+<img width="956" alt="Google-auth-config" src="https://github.com/user-attachments/assets/66187153-4f16-4af8-9277-f9ba1df295ec"/>
+
 
 # Developer Configuration for Facebook
 <img width="947" alt="Facebook-info" src="https://github.com/user-attachments/assets/4b101411-7ee4-4453-9408-43fab46982ba" />
